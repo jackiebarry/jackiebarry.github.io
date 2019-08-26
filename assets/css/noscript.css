@@ -10,6 +10,10 @@
 		background-color: transparent;
 	}
 
+	body {
+		    font-family: 'Open Sans', sans-serif;
+	}
+
 /* Header */
 
 	body.is-preload #header {
